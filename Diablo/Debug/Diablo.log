@@ -1,0 +1,28 @@
+﻿  Game.cpp
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(62,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(123,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(125,31): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(133,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(149,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(253,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(367,31): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(375,23): warning C4018: '<=': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(377,35): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(475,23): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(500,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(506,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(514,54): warning C4018: '<=': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(577,23): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(579,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(617,23): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(619,27): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(625,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(632,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(653,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(669,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(676,39): warning C4018: '<': signed/unsigned mismatch
+G:\c++\All Diablos\Diablo4\Diablo\Game.cpp(697,39): warning C4018: '<': signed/unsigned mismatch
+  Diablo.vcxproj -> G:\c++\All Diablos\Diablo4\Debug\Diablo.exe
